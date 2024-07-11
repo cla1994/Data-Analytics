@@ -4,9 +4,10 @@
 
 1. Studio dei commenti di Youtube (positività / negatività messaggi, emoji, numero di like, nuvola di parole)
 
-![image](https://github.com/cla1994/Data-Analytics/assets/116500326/dc14d06b-c792-4703-95e7-92c4de565b34)
+![image](https://github.com/cla1994/Data-Analytics/assets/116500326/4709e0db-84ef-4daf-b01b-05b5554ddeea)
 
-![image](https://github.com/cla1994/Data-Analytics/assets/116500326/3c69a688-67ca-41a6-bc7f-3b726a284893)
+![image](https://github.com/cla1994/Data-Analytics/assets/116500326/86384e4b-3c8f-4ef1-9bed-cee3dd004141)
+
 
 
 2. Analisi dei valori dei titoli nel mercato S&P500 di alcune aziende (Google, Microsoft, Apple, Amazon)
