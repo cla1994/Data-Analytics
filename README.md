@@ -34,4 +34,6 @@
 ![image](https://github.com/cla1994/Data-Analytics/assets/116500326/7d0facaf-6e5b-4f44-9141-6ad9662433e6)
 
 ![image](https://github.com/cla1994/Data-Analytics/assets/116500326/00f88001-743c-4859-be40-f5c0d8881232)
+
+Per provare le app occorre scaricare Jupyter Notebook e avviare, caricare i file .ipynb e avviare i vari segmenti di codice.
  
